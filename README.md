@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Frontend Web Developer<br>🚀 Crafting User-Centric Experiences <br>🎓 Pursuing BE in Information Technology @ SKNCOE, Pune 📚
+🌟 Full-Stack Web Developer<br>🚀 Crafting User-Centric Experiences <br>🎓 Completed BE in Information Technology @ SKNCOE, Pune 📚
 
 
 ## 🌐 Socials:
